@@ -1,0 +1,17 @@
+code,name,city,state,country
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,GA,USA
+DFW,Dallas/Fort Worth International,Dallas,TX,USA
+DEN,Denver International,Denver,CO,USA
+ORD,Chicago O'Hare International,Chicago,IL,USA
+LAX,Los Angeles International,Los Angeles,CA,USA
+JFK,John F. Kennedy International,New York,NY,USA
+BOS,Boston Logan International,Boston,MA,USA
+SFO,San Francisco International,San Francisco,CA,USA
+SEA,Seattle-Tacoma International,Seattle,WA,USA
+MIA,Miami International,Miami,FL,USA
+PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA
+LAS,Harry Reid International,Las Vegas,NV,USA
+MSP,Minneapolis-Saint Paul International,Minneapolis,MN,USA
+DTW,Detroit Metropolitan Airport,Detroit,MI,USA
+CLT,Charlotte Douglas International,Charlotte,NC,USA
+IAH,George Bush Intercontinental,Houston,TX,USA

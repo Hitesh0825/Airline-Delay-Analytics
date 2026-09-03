@@ -1,0 +1,20 @@
+# Scala / sbt
+target/
+project/target/
+project/project/
+
+# Spark generated files
+spark-warehouse/
+metastore_db/
+
+# Spark output/checkpoint files
+data/output/
+*.crc
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
